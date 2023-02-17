@@ -2,9 +2,9 @@
 Exercice fait en cour 
 ![image](https://user-images.githubusercontent.com/97033270/219704892-9d938efc-c666-41e7-a107-121bf081df8d.png)
 
-'interface de l'application permet aux étudiants de visualiser les offres d'étape disponibles dans une base de données, de sélectionner une offre de leur choix, puis de renseigner leur nom, prénom et numéro Insee pour postuler à l'offre sélectionnée.
+L'interface de l'application permet aux étudiants de visualiser les offres d'étape disponibles dans une base de données, de sélectionner une offre de leur choix, puis de renseigner leur nom, prénom et numéro Insee pour postuler à l'offre sélectionnée.
 
-L'interface se compose d'une page principale simplifiée la liste des offres de stade disponibles, avec des informations telles que l'identifiant de l'offre, le nom de la société, le poste offert, le responsable du recrutement et les dates de début et fin de scène.
+L'interface se compose d'une page principale simplifiée la liste des offres de stage disponibles, avec des informations telles que le nom de la société, le poste offert, le responsable du recrutement et les dates de début et fin de scène.
 
 Chaque offre de stage est présentée sous forme de carte avec une image d'illustration et un bouton "Postuler" qui permet à l'utilisateur de soumettre sa candidature.
 
